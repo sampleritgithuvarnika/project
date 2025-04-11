@@ -9,7 +9,7 @@
   background: rgb(142, 73, 232);
 }
 body{
-  width: 100%;
+  width: 1000%;
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
